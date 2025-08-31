@@ -6,4 +6,3 @@ This section documents the key backend features that the Airbnb Clone must suppo
 - **Payments**: Integration with payment processing and tracking payment status.
 - **User Roles**: Guest, Host, and Admin with role-specific permissions.
 
-> The detailed features are visualized in a diagram saved as `features-and-functionalities/features.png`.
